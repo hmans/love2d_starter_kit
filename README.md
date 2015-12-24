@@ -1,2 +1,6 @@
-# love2d_starter_kit
-A starter kit for making games with LÖVE aka Love2D.
+# LÖVE Starter Kit
+
+#### Essential Links
+
+- [LÖVE Website](https://love2d.org/), [Wiki](https://love2d.org/wiki/Main_Page), [Forums](https://love2d.org/forums/)
+- [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
